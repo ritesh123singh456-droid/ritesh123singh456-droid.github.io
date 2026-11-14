@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sesc.ratelist",
+        "sha256_cert_fingerprints": ["A9:EA:30:50:73:3D:0F:39:0E:D7:AC:C9:31:EF:59:59:48:1C:D7:C6:45:FF:FF:98:8C:E4:8F:89:DC:D5:49:9D"]
+      }
+    }]
